@@ -23,16 +23,15 @@ README.md: This file (you're reading it!)
 Getting Started:
 
 1. Prerequisites: Ensure you have Node.js and npm installed.
-   
-2. Clone the Project:
-git clone https://github.com/your-username/mechanic-service-website.git
-cd mechanic-service-website
-Use code with caution. Learn more
 
-3. Install Dependencies:
+2. Clone the Project:
+git clone https://github.com/santos-eric/gearheadsgo.git
+cd gearheadsgo
+
+1. Install Dependencies:
 npm install
 
-4. Development Server:
+1. Development Server:
 npm run dev
 
 Access the website at http://localhost:3000/.
