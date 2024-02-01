@@ -1,36 +1,53 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Project Name: GearheadsGo
 
-## Getting Started
+Description: This project builds a website using Next.js to connect users with mobile mechanics for convenient, on-demand car repair services. Think "Uber for mechanics," offering both home-based repairs and towing options.
 
-First, run the development server:
+Target Audience: Car owners who need vehicle repairs and value convenience, transparency, and trust.
 
-```bash
+Technologies:
+
+Framework: Next.js
+Database: To be Determined
+Other tools: payment gateway (TBD), Mapping API (TBD)
+Project Structure:
+
+pages: Contains Next.js page components for different website sections.
+public: Holds static assets like CSS, JavaScript, and images.
+components: Houses reusable React components for UI elements.
+styles: Stores global and component-specific styling information.
+api: (Optional) Contains API routes for server-side data fetching and processing.
+utils: Holds utility functions and helper code.
+package.json: Lists project dependencies and scripts.
+README.md: This file (you're reading it!)
+
+Getting Started:
+
+1. Prerequisites: Ensure you have Node.js and npm installed.
+   
+2. Clone the Project:
+git clone https://github.com/your-username/mechanic-service-website.git
+cd mechanic-service-website
+Use code with caution. Learn more
+
+3. Install Dependencies:
+npm install
+
+4. Development Server:
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Access the website at http://localhost:3000/.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Planned Features:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+User registration and login
+Search for available mechanics based on location and service type
+View mechanic profiles and ratings
+Request repair services and schedule appointments
+Track mechanic arrival and repair progress
+Secure online payment processing
+User reviews and feedback system
+Administrative dashboard for managing mechanics and services
 
-## Learn More
+Contributions:
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This project welcomes contributions! Please follow the contribution guidelines outlined in the CONTRIBUTING.md file.
