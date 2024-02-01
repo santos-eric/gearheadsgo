@@ -47,6 +47,3 @@ Secure online payment processing
 User reviews and feedback system
 Administrative dashboard for managing mechanics and services
 
-Contributions:
-
-This project welcomes contributions! Please follow the contribution guidelines outlined in the CONTRIBUTING.md file.
